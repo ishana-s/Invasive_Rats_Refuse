@@ -26,7 +26,7 @@ human.dist: the distance from human refuse at which the camera was placed (in me
 period: "1" = trapping period 1 (before lockdown), "2" = trapping period 2 (after lockdown
 
 #####################################################################################################################
-This database was compiled by IS using published literature. IS was funded by a Norris Center Student Award from the Kenneth S. Norris Center for Natural History.
+IS was funded by a Norris Center Student Award from the Kenneth S. Norris Center for Natural History.
 
 
 
