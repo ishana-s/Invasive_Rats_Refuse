@@ -2,7 +2,7 @@
 THIS DATA PACKAGE ACCOMPANIES: Waste Reduction decreases rat activity from peri-urban environment, I. Shukla and C. W. Wilmers
 This data package contains the original dataset as well as R code used to generate analysis.
 ############################################# CONTENTS ########################################################################
-1.	Shukla et al. README.md -- This file, including a description of variables.
+1.	Shukla and Wilmers README.md -- This file, including a description of variables.
 2.	rat_det.csv -- A data file that includes the habitat, distance to human refuse, invasive rate presence, native small mammal presence, and trapping period used for the linear regression.
 3.	detHIs.csv -- A data file of invasive rat detection history used for the occupancy models
 4.	Invasive_rat_refuse.R -- supplementary code of the linear regression, model competition, and occupancy models  for invasive rate presence
